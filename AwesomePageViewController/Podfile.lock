@@ -1,0 +1,12 @@
+PODS:
+  - Hero (1.0.0-alpha.4)
+
+DEPENDENCIES:
+  - Hero (~> 1.0.0-alpha.4)
+
+SPEC CHECKSUMS:
+  Hero: 6ab58fdfb16c75ce9c6bfad48ef6abb54780b263
+
+PODFILE CHECKSUM: f462326861b8a65b0020f65e88eebb8d41565a51
+
+COCOAPODS: 1.2.1
